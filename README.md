@@ -49,9 +49,10 @@ Designed a minor JAVA GUI based application to develop a system to maintain all 
 ## Academic Highlights
 
 ### **1. MOTILAL NEHRU NATIONAL INSTITUTE OF TECHNOLOGY, ALLAHABAD**
-      Master Of Computer Applications (2019-Present)     CPI-9.37
+      MCA (2019-Present)     CPI-9.37
    
-
+### **2. PATNA WOMENS COLLEGE, PATNA**
+      BCA (2019-Present)     Percentage-87.17%
 
 ---
 
