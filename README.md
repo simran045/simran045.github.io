@@ -1,37 +1,61 @@
-## Welcome to GitHub Pages
+## Portfolio
 
-You can use the [editor on GitHub](https://github.com/simran045/simran045.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+<em>
+    Howdy! This is ME, Simran, a <b>final year</b> postgraduate from <a href="https://www.acetamritsar.ac.in/"> <b>Motilal Nehru National Institute of Technology</b>, Allahabad</a>. <br>
+  A budding <b>Full-Stack Software Developer</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> and a <b>Competitive Programming Enthusiast&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="36px">&nbsp, who is <b>obsessed</b>
+    with the idea of <b>improving</b> herself and wants a <b>platform</b> to 
+    <b>grow</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Rocket.gif" width="18px">and 
+    <b>excel</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Medal.gif" width="20px">&nbsp.
+  </em> 
+  <br>
+  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50" /> <b><i>Learning while HOPING & HUSTLING!!!</i></b> <img src="https://media.giphy.com/media/7j2hfyeVcDtf2/giphy.gif" width="50" />
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+---
 
-### Markdown
+## Skills
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+<p align='left'>
+   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/1200px-C_Programming_Language.svg.png" alt="C" width="auto" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1200px-ISO_C%2B%2B_Logo.svg.png" alt="C++" width="auto" height="40"/>
+   <img src="https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Java_programming_language_logo.svg/1200px-Java_programming_language_logo.svg.png" alt="Java" width="auto" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Database-mysql.svg/1448px-Database-mysql.svg.png" alt="Mysql" width="auto" height="40" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/2048px-HTML5_logo_and_wordmark.svg.png" alt="html" width="40" height="40">
+  <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png' alt="css" width="40" height="40">
+</p>
 
-```markdown
-Syntax highlighted code block
+---
 
-# Header 1
-## Header 2
-### Header 3
+## Projects
 
-- Bulleted
-- List
+### **1. TEXT EXTRACTION AND CHARACTER RECOGNITION FROM IMAGES**
+      Key Skills Used- HTML, CSS, Pytesseract, Flask
+      
+The project involves the detection of text content on images and translation of the images to encoded text that the computer can easily understand. An image containing text is scanned and analyzed in order to identify the characters in it. Upon identification, the character is converted to machine-encoded text.
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
+### **2. COVID-19 HELPLINE**
+      Key Skills Used- Android Studio, Core JAVA, API  
 
-[Link](url) and ![Image](src)
-```
+COVID-19 Helpline is a tracking app that notify us with the worldwide data of confirmed cases, recovered cases and deceased cases.
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+### **3. LIBRARY MANAGEMENT SYSTEM**
+      Key Skills Used- Core JAVA, MYSQL
 
-### Jekyll Themes
+Designed a minor JAVA GUI based application to develop a system to maintain all the daily work of a library such as number of books issued, returned and so on.
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/simran045/simran045.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
+---
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+## Academic Highlights
+
+### **1. MOTILAL NEHRU NATIONAL INSTITUTE OF TECHNOLOGY, ALLAHABAD**
+      Master Of Computer Applications (2019-Present)                                               CPI-9.37
+### **2. PATNA WOMENS COLLEGE, PATNA**
+      Bachelor Of Computer Applications (2015-2018)                                                Percentage-87.17%
+
+
+---
+
+### FUN FACT ABOUT ME-
+  
+⚡ *At The time of Stress coding, I use to be in half sleeping mode* 😴
