@@ -1,7 +1,7 @@
 ## Portfolio
 
 <em>
-    Howdy! This is ME, Simran, a <b>final year</b> postgraduate from <a href="https://www.acetamritsar.ac.in/"> <b>Motilal Nehru National Institute of Technology</b>, Allahabad</a>. <br>
+    Howdy! This is ME, Simran, a <b>final year</b> postgraduate from <a href="http://www.mnnit.ac.in/"> <b>Motilal Nehru National Institute of Technology</b>, Allahabad</a>. <br>
   A budding <b>Full-Stack Software Developer</b> 👩‍💻 and a <b>Competitive Programming Enthusiast</b>😃, who is <b>obsessed</b>
     with the idea of <b>improving</b> herself and wants a <b>platform</b> to <b>grow</b> 🌱 and 
     <b>excel</b> ✨ .
