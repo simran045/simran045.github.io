@@ -3,9 +3,8 @@
 <em>
     Howdy! This is ME, Simran, a <b>final year</b> postgraduate from <a href="https://www.acetamritsar.ac.in/"> <b>Motilal Nehru National Institute of Technology</b>, Allahabad</a>. <br>
   A budding <b>Full-Stack Software Developer</b> 👩‍💻 and a <b>Competitive Programming Enthusiast</b>😃, who is <b>obsessed</b>
-    with the idea of <b>improving</b> herself and wants a <b>platform</b> to 
-    <b>grow</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Rocket.gif" width="18px">and 
-    <b>excel</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Medal.gif" width="20px">&nbsp.
+    with the idea of <b>improving</b> herself and wants a <b>platform</b> to <b>grow</b> 🌱 and 
+    <b>excel</b> ✨ .
   </em> 
   <br>
   <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50" /> <b><i>Learning while HOPING & HUSTLING!!!</i></b> <img src="https://media.giphy.com/media/7j2hfyeVcDtf2/giphy.gif" width="50" />
