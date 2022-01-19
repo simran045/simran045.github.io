@@ -1,1 +1,11 @@
+title: Kumari Simran # your name (or website title) here
+logo: "/profile.png?raw=true" # your photo (or logo) here
+description: > # your text below (remove <br> elements if you don't need line breaks)
+ Software Developer Intern
+  <br><br>
+  <a href="mailto:simranpwc@gmail.com">simranpwc@gmail.com </a>
+  <br>
+  <a href="https://www.linkedin.com/in/the-simran/">LinkedIn Profile</a>
+  <br>
+  <a href="https://www.gihub.com/simran045/">Gihub</a> 
 theme: jekyll-theme-minimal
