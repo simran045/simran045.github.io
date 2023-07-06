@@ -1,8 +1,8 @@
 ## Portfolio
 
   <em>
-    Howdy! This is ME, Simran, an <b>Associate Software Engineer</b> working at <a href="https://www.unitedhealthgroup.com/"><b>UnitedHealth Group</b></a>, Gurugram, Haryana, India. <br>
-    A budding <b>Full-Stack Software Engineer</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> and a <b>Competitive Programming Enthusiast&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="36px">&nbsp, who is <b>obsessed</b>
+    Howdy! This is ME, Simran, an <b>Associate Software Engineer</b> working at <a href="https://www.unitedhealthgroup.com/"><b>UnitedHealth Group</b></a>, Gurugram, Haryana, India. Earlier, I was working as Software Engineer Intern @Genpact where I was given training on Java spring boot & Salesforce. <br>
+    A budding <b>Full-Stack Software Engineer</b> <img src="https://cdn-icons-png.flaticon.com/512/1508/1508880.png" width="30px"> and a <b>Competitive Programming Enthusiast&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="36px">&nbsp, who is <b>obsessed</b>
     with the idea of <b>improving</b> herself and wants a <b>platform</b> to 
     <b>grow</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Rocket.gif" width="18px">and 
     <b>excel</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Medal.gif" width="20px">&nbsp.
@@ -45,10 +45,10 @@ The project involves the detection of text content on images and translation of 
 
 COVID-19 Helpline is a tracking app that notify us with the worldwide data of confirmed cases, recovered cases and deceased cases. This COVID-19 app of ours mainly centralizes on the idea of pooling all the data into one cohesive platform, to help you track real-time information, do the correct trend analysis, and make comparisons among different states of India and other countries
 
-### **3. LIBRARY MANAGEMENT SYSTEM**
+<!--### **3. LIBRARY MANAGEMENT SYSTEM**
       Key Skills Used- Core JAVA, MYSQL
 
-Designed a minor JAVA GUI based application to develop a system to maintain all the daily work of a library such as number of books issued, returned and so on.
+Designed a minor JAVA GUI based application to develop a system to maintain all the daily work of a library such as number of books issued, returned and so on.-->
 
 
 ---
