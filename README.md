@@ -1,14 +1,21 @@
 ## Portfolio
 
 <em>
-    Howdy! This is ME, Simran, a <b>final year</b> postgraduate from <a href="http://www.mnnit.ac.in/"> <b>Motilal Nehru National Institute of Technology</b>, Allahabad</a>. <br>
-  A budding <b>Full-Stack Software Developer</b> 👩‍💻 and a <b>Competitive Programming Enthusiast</b>😃, who is <b>obsessed</b>
-    with the idea of <b>improving</b> herself and wants a <b>platform</b> to <b>grow</b> 🌱 and 
-    <b>excel</b> ✨ .
+    <p align="center">
+  <em>
+    Howdy! This is ME, Simran, an <b>Associate Software Engineer</b> working at <a href="https://www.unitedhealthgroup.com/"><b>UnitedHealth Group</b></a>, Gurugram, Haryana, India. <br>
+    A budding <b>Full-Stack Software Engineer</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> and a <b>Competitive Programming Enthusiast</b>&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="36px">&nbsp,<br>who is <b>obsessed</b>
+    with the idea of <b>improving</b> herself and wants a <b>platform</b> to 
+    <b>grow</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Rocket.gif" width="18px">and 
+    <b>excel</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Medal.gif" width="20px">&nbsp.
   </em> 
   <br>
   <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50" /> <b><i>Learning while HOPING & HUSTLING!!!</i></b> <img src="https://media.giphy.com/media/7j2hfyeVcDtf2/giphy.gif" width="50" />
+</p>
 
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=simran045&label=Profile%20views&color=0e75b6&style=flat" alt="simran045" /> </p>
+<img align="right" width=300px alt="Unicorn" src="https://media.giphy.com/media/3ohs4BSacFKI7A717y/giphy.gif" />
+<br>
 ---
 
 ## Skills
@@ -20,6 +27,9 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Database-mysql.svg/1448px-Database-mysql.svg.png" alt="Mysql" width="auto" height="40" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/2048px-HTML5_logo_and_wordmark.svg.png" alt="html" width="40" height="40">
   <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png' alt="css" width="40" height="40">
+    <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/1200px-Angular_full_color_logo.svg.png' alt="angular" width="40" height="40">
+     <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Jenkins_logo.svg/1200px-Jenkins_logo.svg.png' alt="jenkins" width="40" height="40">
+     <img src='https://e7.pngegg.com/pngimages/899/221/png-clipart-splunk-vertical-logo-tech-companies-thumbnail.png' alt="splun" width="40" height="40">
 </p>
 
 ---
