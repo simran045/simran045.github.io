@@ -2,10 +2,8 @@
 
   <em>
     Howdy! This is ME, Simran, an <b>Associate Software Engineer</b> working at <a href="https://www.unitedhealthgroup.com/"><b>UnitedHealth Group</b></a>, Gurugram, Haryana, India. Earlier, I was working as Software Engineer Intern @Genpact where I was given training on Java spring boot & Salesforce. <br>
-    A budding <b>Full-Stack Software Engineer</b> <img src="https://cdn-icons-png.flaticon.com/512/1508/1508880.png" width="30px"> and a <b>Competitive Programming Enthusiast&nbsp;<img src="https://cdn-icons-png.flaticon.com/512/2621/2621040.png" width="36px">&nbsp, who is <b>obsessed</b>
-    with the idea of <b>improving</b> herself and wants a <b>platform</b> to 
-    <b>grow</b> <img src="https://cdn-icons-png.flaticon.com/512/5731/5731863.png" width="18px">and 
-    <b>excel</b> <img src="https://cdn-icons-png.flaticon.com/512/2972/2972196.png" width="20px">.
+    A budding <b>Full-Stack Software Engineer</b> <img src="https://cdn-icons-png.flaticon.com/512/1508/1508880.png" width="30px"> and a <b>Competitive Programming Enthusiast&nbsp;</b><img src="https://cdn-icons-png.flaticon.com/512/2621/2621040.png" width="36px">&nbsp, who is <b>obsessed</b>
+    with the idea of <b>improving</b> herself and wants a <b>platform</b> to <b>grow</b>and <b>excel</b>.
   </em> 
   <br>
   <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50" /> <b><i>Learning while HOPING & HUSTLING!!!</i></b> <img src="https://media.giphy.com/media/7j2hfyeVcDtf2/giphy.gif" width="50" />
