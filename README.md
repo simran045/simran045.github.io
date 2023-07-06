@@ -2,7 +2,7 @@
 
   <em>
     Howdy! This is ME, Simran, an <b>Associate Software Engineer</b> working at <a href="https://www.unitedhealthgroup.com/"><b>UnitedHealth Group</b></a>, Gurugram, Haryana, India. Earlier, I was working as Software Engineer Intern at <a href="https://www.genpact.com/"><b>Genpact</b></a> where I was given training on Java spring boot & Salesforce. <br>
-    A budding <b>Full-Stack Software Engineer</b> <img src="https://cdn-icons-png.flaticon.com/512/1508/1508880.png" width="30px"> and a <b>Competitive Programming Enthusiast</b><img src="https://cdn-icons-png.flaticon.com/512/2621/2621040.png" width="36px">&nbsp, who is <b>obsessed</b>
+    A budding <b>Full-Stack Software Engineer</b> <img src="https://cdn-icons-png.flaticon.com/512/1508/1508880.png" width="30px"> and a <b>Competitive Programming Enthusiast&nbsp;</b><img src="https://cdn-icons-png.flaticon.com/512/2621/2621040.png" width="36px">, who is <b>obsessed</b>
     with the idea of <b>improving</b> herself and wants a <b>platform</b> to <b>grow </b>and <b>excel</b>.
   </em> 
   <br>
