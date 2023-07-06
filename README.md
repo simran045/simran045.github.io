@@ -43,7 +43,7 @@ The project involves the detection of text content on images and translation of 
 ### **2. COVID-19 HELPLINE**
       Key Skills Used- Android Studio, Core JAVA, API  
 
-COVID-19 Helpline is a tracking app that notify us with the worldwide data of confirmed cases, recovered cases and deceased cases.
+COVID-19 Helpline is a tracking app that notify us with the worldwide data of confirmed cases, recovered cases and deceased cases. This COVID-19 app of ours mainly centralizes on the idea of pooling all the data into one cohesive platform, to help you track real-time information, do the correct trend analysis, and make comparisons among different states of India and other countries
 
 ### **3. LIBRARY MANAGEMENT SYSTEM**
       Key Skills Used- Core JAVA, MYSQL
